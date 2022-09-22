@@ -2,4 +2,4 @@
 
 Use Guppy3, TraceMalloc module for memory profiling
 
-Log file saved in project directory
+Log file be saved in project directory
